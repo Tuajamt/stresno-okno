@@ -1,4 +1,4 @@
-# stresno-okno
+# Stresno-okno
 UPN Projektna naloga
 
 Navodila:
